@@ -3,7 +3,7 @@ export const MUSIC_LIST = [
 		id: 1,
 		title: 'one',
 		artist: 'ath',
-		file: 'https://github.com/ratanpatil212/its-not-hehe-its-hihi/blob/master/DoDin-DarshanRaval.mp3?raw=true',
+		file: 'https://github.com/ratanpatil212/its-not-hehe-its-hihi/blob/master/DoDin-DarshanRaval.mp3',
 		cover: 'https://thumbs.dreamstime.com/b/snap-melon-phut-phoot-cucumis-melo-subsp-agrestris-var-momordica-syn-cucumis-momordica-vine-native-to-india-produces-oval-to-31256367.jpg'
 	}, 
 

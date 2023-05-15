@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "",
-    "start": "node server",
+    "start": "nodemon server",
     "build": "webpack --config ./webpack.production.config.js --progress --profile --colors",
     "eslint": "eslint ."
   },
@@ -21,7 +21,9 @@
     "url": "git+https://github.com/xiaolin3303/react-music-player"
   },
   "dependencies": {
+    "@octokit/rest": "^19.0.8",
     "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.22",
     "pubsub-js": "^1.5.4",
     "react": "^15.0.2",
     "react-dom": "^15.0.2",
